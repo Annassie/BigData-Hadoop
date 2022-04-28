@@ -14,6 +14,6 @@ docker run -it --name gbhdp \
                -p 4040:4040 \
                -p 4044:4044 \ --hostname localhost \ img-hdp-hadoop
 
-![Hadoop running]()
+![Hadoop running](https://github.com/Annassie/BigData-Hadoop/blob/Anna_Niukkanen_task_1/Anna_Niukkanen_task_1/images/hadoop_running.png)
 
 ### 2. Checking the status of manager, name node, data node
