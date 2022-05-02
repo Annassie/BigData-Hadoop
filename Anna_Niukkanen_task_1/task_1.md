@@ -31,4 +31,4 @@ Data Node:
 
 ### 3. Stopping the cluster
 
-https://github.com/Annassie/BigData-Hadoop/blob/Anna_Niukkanen_task_1/Anna_Niukkanen_task_1/images/stop_cluster.png
+![Stop cluster](https://github.com/Annassie/BigData-Hadoop/blob/Anna_Niukkanen_task_1/Anna_Niukkanen_task_1/images/stop_cluster.png)
