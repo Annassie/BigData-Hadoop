@@ -17,4 +17,18 @@ docker run -it --name gbhdp \
 
 ![Hadoop running](https://github.com/Annassie/BigData-Hadoop/blob/Anna_Niukkanen_task_1/Anna_Niukkanen_task_1/images/hadoop_running.png)
 
-### 2. Checking the status of manager, name node, data node
+### 2. Checking the status of resource manager, name node, data node
+
+![Resource manager](https://github.com/Annassie/BigData-Hadoop/blob/Anna_Niukkanen_task_1/Anna_Niukkanen_task_1/images/check_status_of_manager.png)
+
+Name node:
+
+![Name Node](https://github.com/Annassie/BigData-Hadoop/blob/Anna_Niukkanen_task_1/Anna_Niukkanen_task_1/images/nameNode.png)
+
+Data Node:
+
+![Data Node](https://github.com/Annassie/BigData-Hadoop/blob/Anna_Niukkanen_task_1/Anna_Niukkanen_task_1/images/dataNode.png)
+
+### 3. Stopping the cluster
+
+https://github.com/Annassie/BigData-Hadoop/blob/Anna_Niukkanen_task_1/Anna_Niukkanen_task_1/images/stop_cluster.png
