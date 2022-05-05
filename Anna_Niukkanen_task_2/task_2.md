@@ -18,6 +18,6 @@ Creating ppkm-folder and moving files into it:
 
 Giving full permissions to all users:
 
-![]()
+![Giving full permissions](https://github.com/Annassie/BigData-Hadoop/blob/Anna_Niukkanen_task_2/Anna_Niukkanen_task_2/images/giving_full_permissions.png)
 
 
