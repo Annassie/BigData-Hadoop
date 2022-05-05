@@ -1,7 +1,8 @@
 1. Download and replace "ppkm_sentiment"-dataset into HDFS, and give full permissions to all users.
 
 "ppkm_sentiment"-dataset was downloaded from Kaggle.com:
-[https://www.kaggle.com/datasets/mochkholil/ppkm-sentiment?resource=download]
+
+https://www.kaggle.com/datasets/mochkholil/ppkm-sentiment?resource=download
 
 And replaced from Downloads-folder to HDFS-file in Docker:
 
