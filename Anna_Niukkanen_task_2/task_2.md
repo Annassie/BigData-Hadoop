@@ -45,12 +45,21 @@ Location:
 #### 127.0.0.1:50010
 
 
-You can also check the location in Terminal:
+You can also check the location in HDFS using Terminal:
 
 ![Location of blocks](https://github.com/Annassie/BigData-Hadoop/blob/Anna_Niukkanen_task_2/Anna_Niukkanen_task_2/images/location_in_terminal.png)
 
 ### 3. You have 20 files, the size of each is 130MB. How many blocks will be allocated to the NameNode, assuming you have a default block size of 128MB and a replication factor of 3?
 
-### 4.You have 1 file, the size of it is 1.56 TB. How many blocks will be allocated to the NameNode, assuming you have a default block size of 128MB and a replication factor of 3?
+20 files x 130MB = 2600 MB. 
+
+2600MB / 128MB = 20,31 blocks ≈ 20 block
+
+20,31 blocks x 3 replications = 60, 94 blocks ≈ 61 blocks
+
+#### Answer: 61 blocks will be allocated.
+
+
+### 4.You have 1 file, each is 1.56 TB. How many blocks will be allocated to the NameNode, assuming you have a default block size of 128MB and a replication factor of 3?
 
 ### 5. Your company has deployed a Hadoop cluster of 400 nodes. The replication factor is 3. How many machines can be disabled at a time so that there is no data loss?
