@@ -33,9 +33,9 @@ hdfs fsck folder/filename -files -blocks -locations
 ![Location of blocks](https://github.com/Annassie/BigData-Hadoop/blob/Anna_Niukkanen_task_2/Anna_Niukkanen_task_2/images/blocks_location.png)
 
 
-So, based on the sceenshot, we can say that 
+So, based on the sceenshot, we can say that we have only a block and it's
 
-The name of block is 
+Name is 
 #### blk_1073741825_1001
 
 Size:
