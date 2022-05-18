@@ -53,7 +53,7 @@ You can also check the location in HDFS using Terminal:
 
 20 files x 130MB = 2600 MB. 
 
-2600MB / 128MB = 20,31 blocks ≈ 20 block
+2600MB / 128MB = 20,31 blocks
 
 20,31 blocks x 3 replications = 60, 94 blocks ≈ 61 blocks
 
@@ -62,4 +62,14 @@ You can also check the location in HDFS using Terminal:
 
 ### 4.You have 1 file, each is 1.56 TB. How many blocks will be allocated to the NameNode, assuming you have a default block size of 128MB and a replication factor of 3?
 
+1,56 TB = 1 560 000 MB
+
+1 560 000 MB / 128 MB = 12 187,5 blocks
+
+12 187,5 blocks x 3 = 36 562,5 blocks = 36 563 blocks
+
+#### Answer: 36 563 blocks will be allocated.
+
 ### 5. Your company has deployed a Hadoop cluster of 400 nodes. The replication factor is 3. How many machines can be disabled at a time so that there is no data loss?
+
+#### Answer: 2 machines can be disabled.
