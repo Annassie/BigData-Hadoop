@@ -34,11 +34,16 @@ hdfs fsck folder/filename -files -blocks -locations
 
 So, based on the sceenshot, we can say that 
 
-The name of block is #### blk_1073741825_1001,
+The name of block is 
 
- #### Size: len=43320 (bytes) and
+#### blk_1073741825_1001
 
- #### Location is 127.0.0.1:50010
+Size:
+ #### len=43320 (bytes) and
+
+Location:
+
+ #### 127.0.0.1:50010
 
 ### 3. You have 20 files, the size of each is 130MB. How many blocks will be allocated to the NameNode, assuming you have a default block size of 128MB and a replication factor of 3?
 
