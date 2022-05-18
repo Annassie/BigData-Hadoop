@@ -29,6 +29,14 @@ Check the location of blocks using the command:
 
 <span style="color: blue;">some blue text</span>
 
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+
 ![Location of blocks](https://github.com/Annassie/BigData-Hadoop/blob/Anna_Niukkanen_task_2/Anna_Niukkanen_task_2/images/blocks_location.png)
 
 ### 3. You have 20 files, the size of each is 130MB. How many blocks will be allocated to the NameNode, assuming you have a default block size of 128MB and a replication factor of 3?
