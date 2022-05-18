@@ -1,4 +1,4 @@
-1. Download and replace "ppkm_sentiment"-dataset into HDFS, and give full permissions to all users.
+### 1. Download and replace "ppkm_sentiment"-dataset into HDFS, and give full permissions to all users.
 
 "ppkm_sentiment"-dataset was downloaded from Kaggle.com:
 
@@ -21,3 +21,12 @@ Giving full permissions to all users:
 ![Giving full permissions](https://github.com/Annassie/BigData-Hadoop/blob/Anna_Niukkanen_task_2/Anna_Niukkanen_task_2/images/giving_full_permissions.png)
 
 
+### 2. Define the location of the blocks
+
+![Location of blocks]()
+
+### 3. You have 20 files, the size of each is 130MB. How many blocks will be allocated to the NameNode, assuming you have a default block size of 128MB and a replication factor of 3?
+
+### 4.You have 1 file, the size of it is 1.56 TB. How many blocks will be allocated to the NameNode, assuming you have a default block size of 128MB and a replication factor of 3?
+
+### 5. Your company has deployed a Hadoop cluster of 400 nodes. The replication factor is 3. How many machines can be disabled at a time so that there is no data loss?
