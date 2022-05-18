@@ -27,7 +27,7 @@ Check the location of blocks using the command:
 
 #### hdfs fsck folder/filename -files -blocks -locations
 
-<span style="color:blue">some <em>blue<em> text</span>
+<span style="color: blue;">some <em>blue<em> text</span>
 
 ![Location of blocks](https://github.com/Annassie/BigData-Hadoop/blob/Anna_Niukkanen_task_2/Anna_Niukkanen_task_2/images/blocks_location.png)
 
