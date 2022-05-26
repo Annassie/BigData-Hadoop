@@ -12,6 +12,18 @@ First we created mapper.py and reducer.py - files locally:
 
 ![reducer.py](https://github.com/Annassie/BigData-Hadoop/blob/Anna_Niukkanen_task_3/Anna_Niukkanen_task_3/screenshots/reducer_py.png)
 
+And gave executing rights to everyone:
+
+![executing_rights](https://github.com/Annassie/BigData-Hadoop/blob/Anna_Niukkanen_task_3/Anna_Niukkanen_task_3/screenshots/executing_rights.png%20.png)
+
+Then we located it into ppkm_sentiment-dataset:
+
+![in ppkm_sentiment](https://github.com/Annassie/BigData-Hadoop/blob/Anna_Niukkanen_task_3/Anna_Niukkanen_task_3/screenshots/Screenshot%202022-05-27%20at%202.06.32.png)
+
+
+Finally we can print 10 rare words:
+![10 rare words](https://github.com/Annassie/BigData-Hadoop/blob/Anna_Niukkanen_task_3/Anna_Niukkanen_task_3/screenshots/sort_10_rare_words.png)
+
 ### Task 4. Change the mapper in WordCount so that it removes punctuation and converts all words to the same case
 
 
