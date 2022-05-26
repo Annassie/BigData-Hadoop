@@ -6,6 +6,12 @@
 ### Task 3. Deploy a hadoop cluster, build a WordCount application, run on the dataset 'ppkm_sentiment' and print the 10 rarest words
 
 
+First we created mapper.py and reducer.py - files locally:
+
+![mapper.py](https://github.com/Annassie/BigData-Hadoop/blob/Anna_Niukkanen_task_3/Anna_Niukkanen_task_3/screenshots/mapper_py.png)
+
+![reducer.py](https://github.com/Annassie/BigData-Hadoop/blob/Anna_Niukkanen_task_3/Anna_Niukkanen_task_3/screenshots/reducer_py.png)
+
 ### Task 4. Change the mapper in WordCount so that it removes punctuation and converts all words to the same case
 
 
