@@ -22,6 +22,7 @@ Then we located it into ppkm_sentiment-dataset:
 
 
 Finally we can print 10 rare words:
+
 ![10 rare words](https://github.com/Annassie/BigData-Hadoop/blob/Anna_Niukkanen_task_3/Anna_Niukkanen_task_3/screenshots/sort_10_rare_words.png)
 
 ### Task 4. Change the mapper in WordCount so that it removes punctuation and converts all words to the same case
