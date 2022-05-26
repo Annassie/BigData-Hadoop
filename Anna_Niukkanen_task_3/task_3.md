@@ -15,6 +15,6 @@
 ### Task 6. *There is a dataset on the cluster, in which the keys are the employee id and date, and the value is the amount of the payment. 
 ### The manager set the task to calculate the average amount of payments for each employee for the last month. 
 ### In the mapper, you filtered out old entries and returned a key-value of the form: id-money. 
-### And in the reducer, you summed up all the incoming numbers and divided the result by their number. But you came up with the idea to optimize the ### calculation by setting the same reducer as a combinator, thereby reducing the data shuffle. Can you do that? If so, where could the mistake have been made? ### If not, what should be the output of the combinator?
+### And in the reducer, you summed up all the incoming numbers and divided the result by their number. But you came up with the idea to optimize the ### calculation by setting the same reducer as a combinator, thereby reducing the data shuffle. Can you do that? If so, where could the mistake have been made? If not, what should be the output of the combinator?
 
 
