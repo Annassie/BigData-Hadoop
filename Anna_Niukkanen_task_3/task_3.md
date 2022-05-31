@@ -2,6 +2,11 @@
 
 ### Task 2. Give an example of Map only and Reduce tasks
 
+Map only task means that the mapper does all task with its InputSplit and no job is done by the reducer. Mapper's output is the final output.
+Example of Map Only Job: 
+
+
+
 
 ### Task 3. Deploy a hadoop cluster, build a WordCount application, run on the dataset 'ppkm_sentiment' and print the 10 rarest words
 
