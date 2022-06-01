@@ -7,6 +7,9 @@ Example of Map Only Job:
 
 ![MapOnly](https://github.com/Annassie/BigData-Hadoop/blob/Anna_Niukkanen_task_3/Anna_Niukkanen_task_3/screenshots/MapOnly.png)
 
+The example of the Reduce task:
+
+![Reduce](https://github.com/Annassie/BigData-Hadoop/blob/Anna_Niukkanen_task_3/Anna_Niukkanen_task_3/screenshots/Reduce.png)
 
 ### Task 3. Deploy a hadoop cluster, build a WordCount application, run on the dataset 'ppkm_sentiment' and print the 10 rarest words
 
