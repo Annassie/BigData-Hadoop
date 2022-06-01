@@ -9,7 +9,7 @@ Example of Map Only Job:
 
 ![MapOnly](https://github.com/Annassie/BigData-Hadoop/blob/Anna_Niukkanen_task_3/Anna_Niukkanen_task_3/screenshots/MapOnly.png)
 
-The example of the Reduce task:
+The example of the Map and Reduce tasks:
 
 ![Reduce](https://github.com/Annassie/BigData-Hadoop/blob/Anna_Niukkanen_task_3/Anna_Niukkanen_task_3/screenshots/Reduce.png)
 
