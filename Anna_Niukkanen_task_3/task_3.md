@@ -1,5 +1,7 @@
 ### Task 1. Can the Reduce stage start before the Map stage is completed? Why?
 
+Reduce phase consists of three steps: suffling, sorting and outputing. The Outputing can be started only after the sorting, but it is possible to start the suffling phase before all mappers are completed.
+
 ### Task 2. Give an example of Map only and Reduce tasks
 
 Map only task means that the mapper does all task with its InputSplit and no job is done by the reducer. Mapper's output is the final output.
