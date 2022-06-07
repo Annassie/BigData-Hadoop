@@ -3,4 +3,4 @@
 3. Write a query that will display the name of the set (sets.name) with the largest number of parts (sets.num_parts)
 4. Compose a query that will display in which year (sets.year) the most sets were released
 5. Write a query that will display the total number of parts (inventory_parts.quantity) for each of the colors (colors.name)
-6. * Modify the Dockerfile so that Hive is installed and launched with Hadoop
+6. Modify the Dockerfile so that Hive is installed and launched with Hadoop *
