@@ -1,4 +1,4 @@
-1. Install Apache Hive in your Apache Hadoop container
+### 1. Install Apache Hive in your Apache Hadoop container
 
 Installing HIVE into container and unziping:
 
@@ -28,7 +28,7 @@ If we don't want to declare them every bash-session, we can add them into .bashr
 
 
 
-2. Download the lego-database dataset and import it into Hive
+### 2. Download the lego-database dataset and import it into Hive
 
 Downloading and moving lego-dataset to docker:
 
@@ -37,7 +37,7 @@ Downloading and moving lego-dataset to docker:
 To run Hive Server in the background:
       $ hiveserver2 &> /dev/null&
 
-Then we connect via beeline cli:
+Then we connect via beeline cli: /n
       $ beeline -u jdbc:hive2://localhost:10000 
 
 Creating lego_sets- and lego_themes_tables:
@@ -51,7 +51,7 @@ Loading data from dataset into lego_sets- and lego_themes_tables:
 
 ![Loading sets data into lego_themes-table](https://github.com/Annassie/BigData-Hadoop/blob/Anna_Niukkanen_task_4/Anna_Niukkanen_task_4/screenshots/load_data_themes.png)
 
-4. Write a query that will display the name of the set (sets.name) with the largest number of parts (sets.num_parts)
-5. Compose a query that will display in which year (sets.year) the most sets were released
-6. Write a query that will display the total number of parts (inventory_parts.quantity) for each of the colors (colors.name)
-7. Modify the Dockerfile so that Hive is installed and launched with Hadoop *
+### 3. Write a query that will display the name of the set (sets.name) with the largest number of parts (sets.num_parts)
+### 4. Compose a query that will display in which year (sets.year) the most sets were released
+### 5. Write a query that will display the total number of parts (inventory_parts.quantity) for each of the colors (colors.name)
+### 6. Modify the Dockerfile so that Hive is installed and launched with Hadoop *
