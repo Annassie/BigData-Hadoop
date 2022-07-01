@@ -35,10 +35,10 @@ Downloading and moving lego-dataset to docker:
 ![Moving lego-dataset to docker](https://github.com/Annassie/BigData-Hadoop/blob/Anna_Niukkanen_task_4/Anna_Niukkanen_task_4/screenshots/download_lego.png)
 
 To run Hive Server in the background:
-      $ hiveserver2 &> /dev/null&
+$ hiveserver2 &> /dev/null&
 
-Then we connect via beeline cli: /n
-      $ beeline -u jdbc:hive2://localhost:10000 
+Then we connect via beeline cli: 
+$ beeline -u jdbc:hive2://localhost:10000 
 
 Creating lego_sets- and lego_themes_tables:
 
