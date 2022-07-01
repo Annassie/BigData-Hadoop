@@ -38,9 +38,10 @@ Downloading and moving lego-dataset to docker:
 
 Creating lego_sets- and lego_themes_tables:
 
-https://github.com/Annassie/BigData-Hadoop/blob/Anna_Niukkanen_task_4/Anna_Niukkanen_task_4/screenshots/sets_themes_tables.png
+![Creating lego_sets- and lego_themes_tables](https://github.com/Annassie/BigData-Hadoop/blob/Anna_Niukkanen_task_4/Anna_Niukkanen_task_4/screenshots/tables_creating.png)
 
-Loading data from into lego_sets- and lego_themes_tables:
+
+Loading data from dataset into lego_sets- and lego_themes_tables:
 
 ![Loading sets data into lego_sets-table](https://github.com/Annassie/BigData-Hadoop/blob/Anna_Niukkanen_task_4/Anna_Niukkanen_task_4/screenshots/data_sets.png)
 
