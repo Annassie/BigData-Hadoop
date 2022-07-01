@@ -29,6 +29,23 @@ If we don't want to declare them every bash-session, we can add them into .bashr
 
 
 2. Download the lego-database dataset and import it into Hive
+
+Downloading and moving lego-dataset to docker:
+
+![Download Lego-dataset](https://github.com/Annassie/BigData-Hadoop/blob/Anna_Niukkanen_task_4/Anna_Niukkanen_task_4/screenshots/download_lego.png)
+
+![Moving lego-dataset to docker](https://github.com/Annassie/BigData-Hadoop/blob/Anna_Niukkanen_task_4/Anna_Niukkanen_task_4/screenshots/download_lego.png)
+
+Creating lego_sets- and lego_themes_tables:
+
+https://github.com/Annassie/BigData-Hadoop/blob/Anna_Niukkanen_task_4/Anna_Niukkanen_task_4/screenshots/sets_themes_tables.png
+
+Loading data from into lego_sets- and lego_themes_tables:
+
+![Loading sets data into lego_sets-table](https://github.com/Annassie/BigData-Hadoop/blob/Anna_Niukkanen_task_4/Anna_Niukkanen_task_4/screenshots/data_sets.png)
+
+![Loading sets data into lego_themes-table](https://github.com/Annassie/BigData-Hadoop/blob/Anna_Niukkanen_task_4/Anna_Niukkanen_task_4/screenshots/load_data_themes.png)
+
 4. Write a query that will display the name of the set (sets.name) with the largest number of parts (sets.num_parts)
 5. Compose a query that will display in which year (sets.year) the most sets were released
 6. Write a query that will display the total number of parts (inventory_parts.quantity) for each of the colors (colors.name)
