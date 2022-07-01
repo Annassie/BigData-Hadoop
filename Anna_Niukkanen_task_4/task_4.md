@@ -52,6 +52,13 @@ Loading data from dataset into lego_sets- and lego_themes_tables:
 ![Loading sets data into lego_themes-table](https://github.com/Annassie/BigData-Hadoop/blob/Anna_Niukkanen_task_4/Anna_Niukkanen_task_4/screenshots/load_data_themes.png)
 
 ### 3. Write a query that will display the name of the set (sets.name) with the largest number of parts (sets.num_parts)
+
+![Name with max parts](https://github.com/Annassie/BigData-Hadoop/blob/Anna_Niukkanen_task_4/Anna_Niukkanen_task_4/screenshots/name_max_numparts.png)
+
 ### 4. Compose a query that will display in which year (sets.year) the most sets were released
+
+
+
 ### 5. Write a query that will display the total number of parts (inventory_parts.quantity) for each of the colors (colors.name)
+
 ### 6. Modify the Dockerfile so that Hive is installed and launched with Hadoop *
