@@ -59,9 +59,9 @@ Loading data from dataset into lego_sets- and lego_themes_tables:
 
 Query not working:
 
-SELECT MAX(count_name) ***FROM (SELECT COUNT(*) AS count_name FROM lego_sets GROUP BY year);
+SELECT MAX(count_name) ***FROM (SELECT COUNT(*) AS count_name FROM lego_sets GROUP BY year);**
 
-Tried also query ***SELECT year, count() AS count_name, MAX(COUNT(*)) OVER () AS max_ct FROM lego_sets GROUP BY year;
+Tried also query ***SELECT year, count() AS count_name, MAX(COUNT(*)) OVER () AS max_ct FROM lego_sets GROUP BY year;**
 
 ### 5. Write a query that will display the total number of parts (inventory_parts.quantity) for each of the colors (colors.name)
 
