@@ -61,4 +61,12 @@ Loading data from dataset into lego_sets- and lego_themes_tables:
 
 ### 5. Write a query that will display the total number of parts (inventory_parts.quantity) for each of the colors (colors.name)
 
+Creating 'lego_inventory_parts' and 'lego_colors' - tables, loading data into them:
+
+![Creating color-table](https://github.com/Annassie/BigData-Hadoop/blob/Anna_Niukkanen_task_4/Anna_Niukkanen_task_4/screenshots/create_lego_colors.png)
+
+And selecting the total number of parts (inventory_parts.quantity) for each of the colors (colors.name):
+
+![Quantity of parts for each colors](https://github.com/Annassie/BigData-Hadoop/blob/Anna_Niukkanen_task_4/Anna_Niukkanen_task_4/screenshots/quantity_colors.png)
+
 ### 6. Modify the Dockerfile so that Hive is installed and launched with Hadoop *
