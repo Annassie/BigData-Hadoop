@@ -12,7 +12,7 @@ Creating lego_inventory_parts_cut-table and inserting data into it from lego_inv
 
 First creating and zipping table into PARQUET
 
-***Parquet SNAPPY**
+***Parquet SNAPPY***
 
 ![Parquet Snappy](https://github.com/Annassie/BigData-Hadoop/blob/Anna_Niukkanen_task_5/Anna_Niukkanen_task_5/screenshots/cut_par_snappy.png)
 
