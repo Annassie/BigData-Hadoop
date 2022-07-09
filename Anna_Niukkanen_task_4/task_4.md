@@ -67,6 +67,22 @@ Tried also query ***SELECT year, count() AS count_name, MAX(COUNT(*)) OVER () AS
 
 Creating 'lego_inventory_parts' and 'lego_colors' - tables, loading data into them:
 
+Moving "inventory_parts.csv"-file to hdfs:
+
+![Moving .csv into dhfs](https://github.com/Annassie/BigData-Hadoop/blob/Anna_Niukkanen_task_5/Anna_Niukkanen_task_5/screenshots/move_inventory_to_dhfs.png)
+
+Then starting hiveserver2 and creating TABLE "lego_inventory_patrs":
+
+![Start hiveserver2](https://github.com/Annassie/BigData-Hadoop/blob/Anna_Niukkanen_task_5/Anna_Niukkanen_task_5/screenshots/start_hive2.png)
+
+![Create table](https://github.com/Annassie/BigData-Hadoop/blob/Anna_Niukkanen_task_5/Anna_Niukkanen_task_5/screenshots/create_table_inventory.png)
+
+Loading data into table:
+
+![Loading data](https://github.com/Annassie/BigData-Hadoop/blob/Anna_Niukkanen_task_5/Anna_Niukkanen_task_5/screenshots/load_data_into_inventory.png)
+
+![Check table](https://github.com/Annassie/BigData-Hadoop/blob/Anna_Niukkanen_task_5/Anna_Niukkanen_task_5/screenshots/check_table_inventory.png)
+
 ![Creating color-table](https://github.com/Annassie/BigData-Hadoop/blob/Anna_Niukkanen_task_4/Anna_Niukkanen_task_4/screenshots/create_lego_colors.png)
 
 And selecting the total number of parts (inventory_parts.quantity) for each of the colors (colors.name):
