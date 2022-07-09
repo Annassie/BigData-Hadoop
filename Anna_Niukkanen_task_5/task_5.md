@@ -16,21 +16,21 @@ First creating and zipping table into PARQUET
 
 ![Parquet Snappy](https://github.com/Annassie/BigData-Hadoop/blob/Anna_Niukkanen_task_5/Anna_Niukkanen_task_5/screenshots/cut_par_snappy.png)
 
-***Parquet GZ**
+***Parquet GZ***
 
 ![Parquet GZ](https://github.com/Annassie/BigData-Hadoop/blob/Anna_Niukkanen_task_5/Anna_Niukkanen_task_5/screenshots/cut_par_gz.png)
 
-***And Parquet RAW**
+***And Parquet RAW***
 
 ![Parquet RAW](https://github.com/Annassie/BigData-Hadoop/blob/Anna_Niukkanen_task_5/Anna_Niukkanen_task_5/screenshots/cut_par_raw.png)
 
 Second creating tables in ORC:
 
-***ORC Snappy**
+***ORC Snappy***
 
 ![ORC Snappy](https://github.com/Annassie/BigData-Hadoop/blob/Anna_Niukkanen_task_5/Anna_Niukkanen_task_5/screenshots/cut_orc_snappy.png)
 
-***And ORC RAW**
+***And ORC RAW***
 
 ![Orc raw](https://github.com/Annassie/BigData-Hadoop/blob/Anna_Niukkanen_task_5/Anna_Niukkanen_task_5/screenshots/cut_orc_raw.png)
 
