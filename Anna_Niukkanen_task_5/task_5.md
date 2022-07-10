@@ -45,3 +45,19 @@ And then we can compare the comprassion of them:
 Based on it, it is possible to say that the comprassion of files without STRING columns takes almost two times less than the comprassion of files with STRING columns.
 
 #### 3. Write the differences and similarities between AVRO and CSV formats in relation to each other
+
+##### Similarities
+
+RAW-oriented
+
+fast writting (Avro is faster)
+
+slowquery and reading (CSV is faster)
+
+takes much disk space
+
+##### Differences
+
+Avro file contains schema for data (JSON format), CSV doesn't have
+
+Avro cannot be read with eyes, but CSV can be
